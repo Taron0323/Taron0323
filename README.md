@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Hi, I'm Taron. Multimodal LLMs, long-horizon agents, and 6G / AI RAN." width="100%" />
+  <img src="https://raw.githubusercontent.com/Taron0323/Taron0323/main/assets/header.svg" alt="Hi, I'm Taron. Multimodal LLMs, long-horizon agents, and 6G / AI RAN." width="100%" />
 </p>
 
 <p align="center">
