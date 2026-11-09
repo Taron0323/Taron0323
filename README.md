@@ -5,6 +5,8 @@
 <p align="center">
   <a href="mailto:futaoran2003@gmail.com">Email</a>
   &nbsp;·&nbsp;
+  <a href="#publications">Publications</a>
+  &nbsp;·&nbsp;
   <a href="#research-interests">Research interests</a>
   &nbsp;·&nbsp;
   <a href="#selected-projects">Selected projects</a>
@@ -17,6 +19,14 @@
 🔭 My research interests include **multimodal learning and reasoning**, **long-horizon LLM agents**, and **video generation with physical consistency**.
 
 📫 You can reach me at **[futaoran2003@gmail.com](mailto:futaoran2003@gmail.com)**.
+
+## Publications
+
+**[MUR: Multimodal Unified Refinement for Multimedia Recommendation](https://doi.org/10.1007/978-981-96-6588-4_27)**<br>
+**Taoran Fu**, Jiaxuan Cao, Ziqian Wang, Min Yang<br>
+**ICONIP 2024** · LNCS 15290, pp. 387-401 (2025).
+
+Multimodal recommendation with contrastive learning, modality denoising, and dual-view fusion.
 
 ## Research interests
 
