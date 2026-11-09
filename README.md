@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Taron0323/Taron0323/main/assets/header.svg" alt="Hi, I'm Taron. Multimodal LLMs, long-horizon agents, and 6G / AI RAN." width="100%" />
+  <img src="https://raw.githubusercontent.com/Taron0323/Taron0323/main/assets/header.svg?v=2" alt="Hi, I'm Taron. Multimodal learning, LLM agents, and generative vision." width="100%" />
 </p>
 
 <p align="center">
-  <a href="mailto:Taoran.Fu26@student.xjtlu.edu.cn">Email</a>
+  <a href="mailto:futaoran2003@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="#research-interests">Research interests</a>
   &nbsp;·&nbsp;
   <a href="#selected-projects">Selected projects</a>
   &nbsp;·&nbsp;
@@ -12,13 +14,20 @@
 
 ## Hello everyone 👋
 
-🔭 I'm interested in **multimodal large language models**, **long-horizon agents**, and **6G / AI RAN**.
+🔭 My research interests include **multimodal learning and reasoning**, **long-horizon LLM agents**, and **video generation with physical consistency**.
 
-🛠️ I build **open-source skills and workflows for mathematical modeling**, with tools for model design, validation, and research writing.
+📫 You can reach me at **[futaoran2003@gmail.com](mailto:futaoran2003@gmail.com)**.
 
-📫 You can reach me at **[Taoran.Fu26@student.xjtlu.edu.cn](mailto:Taoran.Fu26@student.xjtlu.edu.cn)**.
+## Research interests
+
+- **Multimodal recommendation:** contrastive learning, graph representation learning, feature denoising, and multimodal fusion.
+- **LLM agents and planning:** long-horizon decision-making, future-action prediction, and plan consistency.
+- **Multimodal RAG:** uncertainty estimation, adaptive retrieval, and attention-based evidence use across text, images, tables, and video.
+- **Video generation and world models:** video tokenization, temporal representations, adaptive temporal sampling, and physical consistency.
 
 ## Selected projects
+
+🛠️ I also build **open-source skills and workflows for mathematical modeling**, with tools for model design, validation, and research writing.
 
 <table>
   <tr>
